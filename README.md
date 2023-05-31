@@ -11,7 +11,6 @@
   <img align="center" alt="Noda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Noda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Noda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Noda-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202211/338224_qxFqkQSR.png?width=676&height=676">
 </div>
   
   ##
