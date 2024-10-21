@@ -1,8 +1,8 @@
-## Oiii eu sou a Amanda Noda, sou graduanda de Engenharia de Software na Universidade de Brasília!
+## Oiii eu sou a Amanda Noda, sou graduanda de Engenharia de Software na Universidade Católica de Brasília!
 <div align="center">
   <a href="https://github.com/amanda-noda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-noda&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-noda&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-noda&layout=compact&langs_count=7&theme=coder"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Noda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
