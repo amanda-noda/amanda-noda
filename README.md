@@ -20,8 +20,9 @@
 <div> 
   <a href="https://instagram.com/amanda_nodaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amanda-fernandes-97b54919b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <a href= "https://amandanoda.builder-preview.com/sobre" target="_blank"><img align="center" alt="Noda-Js" height="60" width="60" src = "https://github.com/user-attachments/assets/03d34877-572c-4f94-9429-c35b6906d1b7" target ="_blank"></a>
 </div>
+
 
 
 <picture>
