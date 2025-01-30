@@ -13,6 +13,9 @@
   <img align="center" alt="Noda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Noda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Noda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Noda-Java" height="30" width="40" src="https://github.com/user-attachments/assets/dd104cb7-8e7c-4509-b77a-52b954a1a537">
+  <img align="center" alt="Noda-CSharp" height="30" width="40" src="https://github.com/user-attachments/assets/300963d9-4279-473a-8f8c-96f4db52abf5">
+  <img align="center" alt="Noda-CSharp" height="30" width="40" src="https://github.com/user-attachments/assets/72cc1c9b-0d7f-4226-a077-0d532f25f795">
 </div>
   
   ##
