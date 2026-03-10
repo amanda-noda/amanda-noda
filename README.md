@@ -1,7 +1,7 @@
 ## Oiii eu sou a Amanda Noda, sou graduanda de Engenharia de Software na Universidade Católica de Brasília!
 <div align="center">
   <a href="https://github.com/amanda-noda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-noda&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-noda&show_icons=true&theme=panda&include_all_commits=true&count_public_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-noda&layout=compact&langs_count=7&theme=panda"/>
   <img height="245em" src="https://github-readme-stats.vercel.app/api?username=amanda-noda&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda"/>
  
